@@ -1,16 +1,37 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.f855e6bc.css",
-    "main.js": "/demo/static/js/main.a28c5b8e.js",
-    "static/js/787.0f7dc5a1.chunk.js": "/demo/static/js/787.0f7dc5a1.chunk.js",
-    "static/media/logo.svg": "/demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/demo/static/css/main.43a1dcea.css",
+    "main.js": "/demo/static/js/main.1ed044cf.js",
+    "static/media/background.svg": "/demo/static/media/background.b40fdaeac80b0d77cb5c.svg",
+    "static/media/Home_sec_1.png": "/demo/static/media/Home_sec_1.30e4669e40e19342e37a.png",
+    "static/media/galary.png": "/demo/static/media/galary.215d87645d624f8a8b15.png",
+    "static/media/airplane.png": "/demo/static/media/airplane.db93091bad8ab057d66c.png",
+    "static/media/package1_test.png": "/demo/static/media/package1_test.ef61ce48553ae824ab7c.png",
+    "static/media/package2_test.png": "/demo/static/media/package2_test.7053915858566e534225.png",
+    "static/media/package3_test.png": "/demo/static/media/package3_test.990183ea396565e84cff.png",
+    "static/media/package4_test.png": "/demo/static/media/package4_test.d5b20db4070d2a7ce437.png",
+    "static/media/ship.svg": "/demo/static/media/ship.534bac0475784ba41449234c29d59fe1.svg",
+    "static/media/hiking.svg": "/demo/static/media/hiking.06e26e31decd3c98b60fca43cecbd8ac.svg",
+    "static/media/yassermoaz.jpeg": "/demo/static/media/yassermoaz.364daf1c198516313f9d.jpeg",
+    "static/media/Logo.svg": "/demo/static/media/Logo.d3b3740be0eb594c5d31c35ec808e96a.svg",
+    "static/media/fushafooter.svg": "/demo/static/media/fushafooter.8ee332d8070f3670a3d6fbd13efdb037.svg",
+    "static/media/award.svg": "/demo/static/media/award.7961abf9221a17a2fc3d616d415d2517.svg",
+    "static/media/saada.svg": "/demo/static/media/saada.9bf00d4a91d946ff4a0834b0e764d604.svg",
+    "static/media/airarabia.svg": "/demo/static/media/airarabia.5224ba95ed34bd53685f0300115f2204.svg",
+    "static/media/ithad.svg": "/demo/static/media/ithad.3acd7cfbfc3698ad9bd536cfab8d8af8.svg",
+    "static/media/emarait.svg": "/demo/static/media/emarait.95324614366bba68c0891444369c2d5b.svg",
+    "static/media/flydubai.svg": "/demo/static/media/flydubai.dd2d148b6d78240d0e3ce255550973d0.svg",
+    "static/media/Flag_of_the_United_Kingdom_(1-2).svg.webp": "/demo/static/media/Flag_of_the_United_Kingdom_(1-2).svg.fa4a123f16be7bb61f66.webp",
+    "static/media/experience.svg": "/demo/static/media/experience.3da9ac4e62e435837ef9606a4b8c003e.svg",
     "index.html": "/demo/index.html",
-    "main.f855e6bc.css.map": "/demo/static/css/main.f855e6bc.css.map",
-    "main.a28c5b8e.js.map": "/demo/static/js/main.a28c5b8e.js.map",
-    "787.0f7dc5a1.chunk.js.map": "/demo/static/js/787.0f7dc5a1.chunk.js.map"
+    "static/media/guarantee.svg": "/demo/static/media/guarantee.7c3c982073421cf11c4dced514bb8fb1.svg",
+    "static/media/rightarrow.svg": "/demo/static/media/rightarrow.4eee85d89f532dae2f6a675766a6fdc1.svg",
+    "static/media/service.svg": "/demo/static/media/service.dd1b495bfe777c4942ac7d0f51548b4a.svg",
+    "main.43a1dcea.css.map": "/demo/static/css/main.43a1dcea.css.map",
+    "main.1ed044cf.js.map": "/demo/static/js/main.1ed044cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a28c5b8e.js"
+    "static/css/main.43a1dcea.css",
+    "static/js/main.1ed044cf.js"
   ]
 }
